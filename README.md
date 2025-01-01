@@ -1,1 +1,6 @@
 # airbinb_tableau_dashboard
+https://public.tableau.com/app/profile/amal.ks/viz/Airbnb_NYC-dashboardCapstoneprojectalmabetter/Dashboard1 The Airbnb Dashboard is a visual analytics tool developed using Tableau that provides insights into Airbnb listings in regions such as Manhattan, Brooklyn, and more. The dashboard aims to offer users a comprehensive overview of Airbnb rental trends, including geographical distribution, time series analysis, and key metrics such as the number of vacant rooms and shared rooms.
+# Tools and technologies  
+Tableau: Utilized for creating interactive and visually appealing dashboard. Airbnb Dataset: Dataset sourced from Airbnb containing information about listings, including location, availability, pricing, and room types. Geographical Data: Geospatial data used for visualizing Airbnb listings on maps.
+# CONCLUSION
+The Airbnb Dashboard built with Tableau offers users a powerful tool for analyzing Airbnb rental trends in regions like Manhattan, Brooklyn, and beyond. By providing interactive visualizations and key metrics, the dashboard enables users to make data-driven decisions regarding Airbnb rentals, pricing strategies, and investment opportunities. Future enhancements may include incorporating additional datasets for deeper insights and expanding the geographical coverage to include more regions and cities.
